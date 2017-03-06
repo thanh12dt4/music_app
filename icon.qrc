@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/exit.png</file>
+        <file>Icon/logo_fpt.jpg</file>
+        <file>Icon/next.png</file>
+        <file>Icon/open.png</file>
+        <file>Icon/pause.png</file>
+        <file>Icon/play.png</file>
+        <file>Icon/previous.png</file>
+        <file>Icon/stop.png</file>
+    </qresource>
+</RCC>
